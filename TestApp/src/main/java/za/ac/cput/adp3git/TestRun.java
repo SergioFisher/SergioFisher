@@ -3,8 +3,8 @@ package za.ac.cput.adp3git;
 public class TestRun {
 
 
-        private String a;
-        private String b;
+        public String a;
+        public String b;
 
         public TestRun(){}
 
