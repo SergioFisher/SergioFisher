@@ -37,7 +37,7 @@ public class TestRun {
         @Override
         public String toString()
         {
-            return "Test{" + "a='" + a + '\'' + ", b='" + b + '\'' + '}';
+            return "Test=" + "a=" + a + '\' + ", b=" + b;
         }
 }
 
